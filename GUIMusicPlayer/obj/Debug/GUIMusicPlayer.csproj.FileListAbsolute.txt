@@ -1,0 +1,33 @@
+c:\users\jm\documents\visual studio 2015\Projects\GUIMusicPlayer\GUIMusicPlayer\bin\Debug\GUIMusicPlayer.exe.config
+c:\users\jm\documents\visual studio 2015\Projects\GUIMusicPlayer\GUIMusicPlayer\bin\Debug\GUIMusicPlayer.exe
+c:\users\jm\documents\visual studio 2015\Projects\GUIMusicPlayer\GUIMusicPlayer\bin\Debug\GUIMusicPlayer.pdb
+c:\users\jm\documents\visual studio 2015\Projects\GUIMusicPlayer\GUIMusicPlayer\obj\Debug\GUIMusicPlayer.csprojResolveAssemblyReference.cache
+c:\users\jm\documents\visual studio 2015\Projects\GUIMusicPlayer\GUIMusicPlayer\obj\Debug\GUIMusicPlayer.mainForm.resources
+c:\users\jm\documents\visual studio 2015\Projects\GUIMusicPlayer\GUIMusicPlayer\obj\Debug\GUIMusicPlayer.Properties.Resources.resources
+c:\users\jm\documents\visual studio 2015\Projects\GUIMusicPlayer\GUIMusicPlayer\obj\Debug\GUIMusicPlayer.csproj.GenerateResource.Cache
+c:\users\jm\documents\visual studio 2015\Projects\GUIMusicPlayer\GUIMusicPlayer\obj\Debug\GUIMusicPlayer.exe
+c:\users\jm\documents\visual studio 2015\Projects\GUIMusicPlayer\GUIMusicPlayer\obj\Debug\GUIMusicPlayer.pdb
+c:\users\jm\documents\visual studio 2015\Projects\GUIMusicPlayer\GUIMusicPlayer\obj\Debug\Interop.WMPLib.dll
+c:\users\jm\documents\visual studio 2015\Projects\GUIMusicPlayer\GUIMusicPlayer\obj\Debug\GUIMusicPlayer.csproj.ResolveComReference.cache
+D:\Users\NalRo9\Documents\카카오톡 받은 파일\GUIMusicPlayer\GUIMusicPlayer\bin\Debug\GUIMusicPlayer.exe.config
+D:\Users\NalRo9\Documents\카카오톡 받은 파일\GUIMusicPlayer\GUIMusicPlayer\obj\Debug\Interop.WMPLib.dll
+D:\Users\NalRo9\Documents\카카오톡 받은 파일\GUIMusicPlayer\GUIMusicPlayer\obj\Debug\GUIMusicPlayer.csproj.ResolveComReference.cache
+D:\Users\NalRo9\Documents\카카오톡 받은 파일\GUIMusicPlayer\GUIMusicPlayer\obj\Debug\GUIMusicPlayer.exe
+D:\Users\NalRo9\Documents\카카오톡 받은 파일\GUIMusicPlayer\GUIMusicPlayer\obj\Debug\GUIMusicPlayer.pdb
+D:\Users\NalRo9\Documents\카카오톡 받은 파일\GUIMusicPlayer\GUIMusicPlayer\bin\Debug\GUIMusicPlayer.exe
+D:\Users\NalRo9\Documents\카카오톡 받은 파일\GUIMusicPlayer\GUIMusicPlayer\bin\Debug\GUIMusicPlayer.pdb
+D:\Users\NalRo9\Documents\카카오톡 받은 파일\GUIMusicPlayer\GUIMusicPlayer\obj\Debug\GUIMusicPlayer.csprojResolveAssemblyReference.cache
+D:\Users\NalRo9\Documents\카카오톡 받은 파일\GUIMusicPlayer\GUIMusicPlayer\obj\Debug\GUIMusicPlayer.mainForm.resources
+D:\Users\NalRo9\Documents\카카오톡 받은 파일\GUIMusicPlayer\GUIMusicPlayer\obj\Debug\GUIMusicPlayer.Properties.Resources.resources
+D:\Users\NalRo9\Documents\카카오톡 받은 파일\GUIMusicPlayer\GUIMusicPlayer\obj\Debug\GUIMusicPlayer.csproj.GenerateResource.Cache
+D:\jungmintaeng\GUIMusicPlayer\GUIMusicPlayer\bin\Debug\GUIMusicPlayer.exe.config
+D:\jungmintaeng\GUIMusicPlayer\GUIMusicPlayer\obj\Debug\Interop.WMPLib.dll
+D:\jungmintaeng\GUIMusicPlayer\GUIMusicPlayer\obj\Debug\GUIMusicPlayer.csproj.ResolveComReference.cache
+D:\jungmintaeng\GUIMusicPlayer\GUIMusicPlayer\obj\Debug\GUIMusicPlayer.exe
+D:\jungmintaeng\GUIMusicPlayer\GUIMusicPlayer\obj\Debug\GUIMusicPlayer.pdb
+D:\jungmintaeng\GUIMusicPlayer\GUIMusicPlayer\bin\Debug\GUIMusicPlayer.exe
+D:\jungmintaeng\GUIMusicPlayer\GUIMusicPlayer\bin\Debug\GUIMusicPlayer.pdb
+D:\jungmintaeng\GUIMusicPlayer\GUIMusicPlayer\obj\Debug\GUIMusicPlayer.csprojResolveAssemblyReference.cache
+D:\jungmintaeng\GUIMusicPlayer\GUIMusicPlayer\obj\Debug\GUIMusicPlayer.mainForm.resources
+D:\jungmintaeng\GUIMusicPlayer\GUIMusicPlayer\obj\Debug\GUIMusicPlayer.Properties.Resources.resources
+D:\jungmintaeng\GUIMusicPlayer\GUIMusicPlayer\obj\Debug\GUIMusicPlayer.csproj.GenerateResource.Cache
